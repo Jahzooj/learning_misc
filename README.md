@@ -1,2 +1,2 @@
-# learning_misc
+# misc
 todo
